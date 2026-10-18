@@ -1,0 +1,7 @@
+order_reference,carton_number,total_cartons,sku,description,quantity,unit,net_weight_kg,gross_weight_kg,length_cm,width_cm,height_cm
+DEMO-001,1,6,NOTE-01,Plain notebook,10,pcs,2.00,2.40,40,30,25
+DEMO-001,2,6,NOTE-01,Plain notebook,10,pcs,2.00,2.40,40,30,25
+DEMO-001,3,6,NOTE-01,Plain notebook,10,pcs,2.00,2.40,40,30,25
+DEMO-001,4,6,NOTE-01,Plain notebook,10,pcs,2.00,2.40,40,30,25
+DEMO-001,5,6,POUCH-01,Canvas pouch,12,pcs,1.20,1.50,50,40,30
+DEMO-001,6,6,POUCH-01,Canvas pouch,12,pcs,1.20,1.50,50,40,30
